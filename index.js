@@ -2,10 +2,10 @@ const express = require('express')
 const app=express();  
 const port =process.env.PORT || 5000;  
 const chef=require('./Data/chefCatagory.json');
-const recipe=require('./Data/recipe.json') 
-const cors = require('cors')
+const recipe=require('./Data/recipe.json'); 
+const cors = require('cors');
 
-app.use(cors())
+app.use(cors());
 app.get('/', (req, res) => {
     res.send('Thai Express is Running....')
   });
