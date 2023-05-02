@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "ChefPicture": "https://i.ibb.co/W5vpFgX/chef1.png",
+      "ChefName": "John Doe",
+      "ChefBio": "Passionate about creating delicious and innovative dishes.",
+      "Yearsofexperience": 10,
+      "Numbersofrecipes": 50,
+      "TotalLikes": 1000
+    },
+    {
+      "id": 2,
+      "ChefPicture": "https://i.ibb.co/BN5wsY3/chef2.png",
+      "ChefName": "Jane Smith",
+      "ChefBio": "Bringing culinary delights to the table for over 7 years.",
+      "Yearsofexperience": 7,
+      "Numbersofrecipes": 30,
+      "TotalLikes": 500
+    },
+    {
+      "id": 3,
+      "ChefPicture": "https://i.ibb.co/svsyXQH/chef3.png",
+      "ChefName": "Mike Johnson",
+      "ChefBio": "Mastering the art of cooking for 15 years.",
+      "Yearsofexperience": 15,
+      "Numbersofrecipes": 80,
+      "TotalLikes": 2000
+    },
+    {
+      "id": 4,
+      "ChefPicture": "https://i.ibb.co/2dM8sz7/chef4.png",
+      "ChefName": "Emily Brown",
+      "ChefBio": "Creating culinary wonders with 5 years of experience.",
+      "Yearsofexperience": 5,
+      "Numbersofrecipes": 20,
+      "TotalLikes": 300
+    },
+    {
+      "id": 5,
+      "ChefPicture": "https://i.ibb.co/Zhdx2Gr/chef5.png",
+      "ChefName": "David Wilson",
+      "ChefBio": "Crafting mouthwatering dishes for over a decade.",
+      "Yearsofexperience": 12,
+      "Numbersofrecipes": 60,
+      "TotalLikes": 1500
+    },
+    {
+      "id": 6,
+      "ChefPicture": "https://i.ibb.co/TWQ2rVV/chef6.png",
+      "ChefName": "Sarah Davis",
+      "ChefBio": "Passionate chef with 8 years of culinary expertise.",
+      "Yearsofexperience": 8,
+      "Numbersofrecipes": 40,
+      "TotalLikes": 700
+    }
+  ]

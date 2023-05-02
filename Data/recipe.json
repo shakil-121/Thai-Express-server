@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "recipeName": "Spinach Dip",
+    "imageUrl": "https://example.com/spinach_dip.jpg",
+    "ingredients": [
+      "Spinach",
+      "Cream cheese",
+      "Sour cream",
+      "Parmesan cheese",
+      "Garlic"
+    ],
+    "cookingMethod": "Mix all ingredients together and bake for 20 minutes.",
+    "rating": 4.5,
+    "categoryId": 1,
+    "categoryName": "Appetizers"
+  },
+  {
+    "categoryId": 1,
+    "categoryName": "Appetizers",
+    "id": 2,
+    "recipeName": "Bruschetta",
+    "imageUrl": "https://example.com/bruschetta.jpg",
+    "ingredients": ["Baguette", "Tomatoes", "Basil", "Garlic", "Olive oil"],
+    "cookingMethod": "Toast the bread, then top it with a mixture of tomatoes, basil, garlic, and olive oil.",
+    "rating": 4.2
+  },
+  {
+    "categoryId": 1,
+    "categoryName": "Appetizers",
+    "id": 3,
+    "recipeName": "Stuffed Mushrooms",
+    "imageUrl": "https://example.com/stuffed_mushrooms.jpg",
+    "ingredients": [
+      "Mushrooms",
+      "Cream cheese",
+      "Breadcrumbs",
+      "Garlic",
+      "Parmesan cheese"
+    ],
+    "cookingMethod": "Remove stems from mushrooms, stuff with a mixture of cream cheese, breadcrumbs, garlic, and Parmesan cheese. Bake until golden brown.",
+    "rating": 4.7
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "Main Dishes",
+    "id": 4,
+    "recipeName": "Spaghetti Bolognese",
+    "imageUrl": "https://example.com/spaghetti_bolognese.jpg",
+    "ingredients": [
+      "Ground beef",
+      "Onion",
+      "Garlic",
+      "Tomato sauce",
+      "Spaghetti"
+    ],
+    "cookingMethod": "Cook ground beef, onion, and garlic. Add tomato sauce and simmer. Serve with cooked spaghetti.",
+    "rating": 4.8
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "Main Dishes",
+    "id": 5,
+    "recipeName": "Chicken Stir-Fry",
+    "imageUrl": "https://example.com/chicken_stirfry.jpg",
+    "ingredients": [
+      "Chicken breast",
+      "Broccoli",
+      "Carrots",
+      "Bell peppers",
+      "Soy sauce"
+    ],
+    "cookingMethod": "Cook chicken and vegetables in a pan. Add soy sauce and stir-fry until cooked through.",
+    "rating": 4.4
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "Main Dishes",
+    "id": 6,
+    "recipeName": "Beef Tacos",
+    "imageUrl": "https://example.com/beef_tacos.jpg",
+    "ingredients": [
+      "Ground beef",
+      "Tortillas",
+      "Lettuce",
+      "Tomatoes",
+      "Cheese"
+    ],
+    "cookingMethod": "Cook ground beef, then assemble tacos with tortillas, lettuce, tomatoes, and cheese.",
+    "rating": 4.6
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "Appetizers",
+    "id": 7,
+    "recipeName": "Spinach Dip",
+    "imageUrl": "https://example.com/spinach_dip.jpg",
+    "ingredients": [
+      "Spinach",
+      "Cream cheese",
+      "Sour cream",
+      "Parmesan cheese",
+      "Garlic"
+    ],
+    "cookingMethod": "Mix all ingredients together and bake for 20 minutes.",
+    "rating": 4.5
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "Appetizers",
+    "id": 8,
+    "recipeName": "Bruschetta",
+    "imageUrl": "https://example.com/bruschetta.jpg",
+    "ingredients": ["Baguette", "Tomatoes", "Basil", "Garlic", "Olive oil"],
+    "cookingMethod": "Toast the bread, then top it with a mixture of tomatoes, basil, garlic, and olive oil.",
+    "rating": 4.2
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "Appetizers",
+    "id": 9,
+    "recipeName": "Stuffed Mushrooms",
+    "imageUrl": "https://example.com/stuffed_mushrooms.jpg",
+    "ingredients": [
+      "Mushrooms",
+      "Cream cheese",
+      "Breadcrumbs",
+      "Garlic",
+      "Parmesan cheese"
+    ],
+    "cookingMethod": "Remove stems from mushrooms, stuff with a mixture of cream cheese, breadcrumbs, garlic, and Parmesan cheese. Bake until golden brown.",
+    "rating": 4.7
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Main Dishes",
+    "id": 10,
+    "recipeName": "Spaghetti Bolognese",
+    "imageUrl": "https://example.com/spaghetti_bolognese.jpg",
+    "ingredients": [
+      "Ground beef",
+      "Onion",
+      "Garlic",
+      "Tomato sauce",
+      "Spaghetti"
+    ],
+    "cookingMethod": "Cook ground beef, onion, and garlic. Add tomato sauce and simmer. Serve with cooked spaghetti.",
+    "rating": 4.8
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Main Dishes",
+    "id": 11,
+    "recipeName": "Chicken Stir-Fry",
+    "imageUrl": "https://example.com/chicken_stirfry.jpg",
+    "ingredients": [
+      "Chicken breast",
+      "Broccoli",
+      "Carrots",
+      "Bell peppers",
+      "Soy sauce"
+    ],
+    "cookingMethod": "Cook chicken and vegetables in a pan. Add soy sauce and stir-fry until cooked through.",
+    "rating": 4.4
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Main Dishes",
+    "id": 12,
+    "recipeName": "Beef Tacos",
+    "imageUrl": "https://example.com/beef_tacos.jpg",
+    "ingredients": [
+      "Ground beef",
+      "Tortillas",
+      "Lettuce",
+      "Tomatoes",
+      "Cheese"
+    ],
+    "cookingMethod": "Cook ground beef, then assemble tacos with tortillas, lettuce, tomatoes, and cheese.",
+    "rating": 4.6
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "Appetizers",
+    "id": 13,
+    "recipeName": "Spinach Dip",
+    "imageUrl": "https://example.com/spinach_dip.jpg",
+    "ingredients": [
+      "Spinach",
+      "Cream cheese",
+      "Sour cream",
+      "Parmesan cheese",
+      "Garlic"
+    ],
+    "cookingMethod": "Mix all ingredients together and bake for 20 minutes.",
+    "rating": 4.5
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "Appetizers",
+    "id": 14,
+    "recipeName": "Bruschetta",
+    "imageUrl": "https://example.com/bruschetta.jpg",
+    "ingredients": ["Baguette", "Tomatoes", "Basil", "Garlic", "Olive oil"],
+    "cookingMethod": "Toast the bread, then top it with a mixture of tomatoes, basil, garlic, and olive oil.",
+    "rating": 4.2
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "Appetizers",
+    "id": 15,
+    "recipeName": "Stuffed Mushrooms",
+    "imageUrl": "https://example.com/stuffed_mushrooms.jpg",
+    "ingredients": [
+      "Mushrooms",
+      "Cream cheese",
+      "Breadcrumbs",
+      "Garlic",
+      "Parmesan cheese"
+    ],
+    "cookingMethod": "Remove stems from mushrooms, stuff with a mixture of cream cheese, breadcrumbs, garlic, and Parmesan cheese. Bake until golden brown.",
+    "rating": 4.7
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "Main Dishes",
+    "id": 16,
+    "recipeName": "Spaghetti Bolognese",
+    "imageUrl": "https://example.com/spaghetti_bolognese.jpg",
+    "ingredients": [
+      "Ground beef",
+      "Onion",
+      "Garlic",
+      "Tomato sauce",
+      "Spaghetti"
+    ],
+    "cookingMethod": "Cook ground beef, onion, and garlic. Add tomato sauce and simmer. Serve with cooked spaghetti.",
+    "rating": 4.8
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "Main Dishes",
+    "id": 17,
+    "recipeName": "Chicken Stir-Fry",
+    "imageUrl": "https://example.com/chicken_stirfry.jpg",
+    "ingredients": [
+      "Chicken breast",
+      "Broccoli",
+      "Carrots",
+      "Bell peppers",
+      "Soy sauce"
+    ],
+    "cookingMethod": "Cook chicken and vegetables in a pan. Add soy sauce and stir-fry until cooked through.",
+    "rating": 4.4
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "Main Dishes",
+    "id": 18,
+    "recipeName": "Beef Tacos",
+    "imageUrl": "https://example.com/beef_tacos.jpg",
+    "ingredients": [
+      "Ground beef",
+      "Tortillas",
+      "Lettuce",
+      "Tomatoes",
+      "Cheese"
+    ],
+    "cookingMethod": "Cook ground beef, then assemble tacos with tortillas, lettuce, tomatoes, and cheese.",
+    "rating": 4.6
+  }
+]
