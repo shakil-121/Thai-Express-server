@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
 
  app.get('/recipe',(req,res)=>{
   res.send(recipe)
- })
+ });
  
  app.get('/chef/:id',(req,res)=>{ 
   const id=req.params.id;  
@@ -28,13 +28,13 @@ app.get('/', (req, res) => {
   const chefRacipe=recipe.filter(rec=>rec.categoryId==id) 
   res.send(chefRacipe) 
   
- })  
+ }); 
  
  app.get('/recipe/:id',(req,res)=>{
   const id=req.params.id; 
   const selectedRecipe=recipe.find(r=>r.id==id)
   res.send(selectedRecipe)
- })
+ });
 
 
 
