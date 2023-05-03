@@ -1,272 +1,344 @@
 [
   {
-    "id": 1,
-    "recipeName": "Spinach Dip",
-    "imageUrl": "https://example.com/spinach_dip.jpg",
-    "ingredients": [
-      "Spinach",
-      "Cream cheese",
-      "Sour cream",
-      "Parmesan cheese",
-      "Garlic"
-    ],
-    "cookingMethod": "Mix all ingredients together and bake for 20 minutes.",
-    "rating": 4.5,
-    "categoryId": 1,
-    "categoryName": "Appetizers"
-  },
-  {
-    "categoryId": 1,
-    "categoryName": "Appetizers",
-    "id": 2,
-    "recipeName": "Bruschetta",
-    "imageUrl": "https://example.com/bruschetta.jpg",
-    "ingredients": ["Baguette", "Tomatoes", "Basil", "Garlic", "Olive oil"],
-    "cookingMethod": "Toast the bread, then top it with a mixture of tomatoes, basil, garlic, and olive oil.",
-    "rating": 4.2
-  },
-  {
-    "categoryId": 1,
-    "categoryName": "Appetizers",
-    "id": 3,
-    "recipeName": "Stuffed Mushrooms",
-    "imageUrl": "https://example.com/stuffed_mushrooms.jpg",
-    "ingredients": [
-      "Mushrooms",
-      "Cream cheese",
-      "Breadcrumbs",
-      "Garlic",
-      "Parmesan cheese"
-    ],
-    "cookingMethod": "Remove stems from mushrooms, stuff with a mixture of cream cheese, breadcrumbs, garlic, and Parmesan cheese. Bake until golden brown.",
-    "rating": 4.7
-  },
-  {
-    "categoryId": 2,
-    "categoryName": "Main Dishes",
-    "id": 4,
-    "recipeName": "Spaghetti Bolognese",
-    "imageUrl": "https://example.com/spaghetti_bolognese.jpg",
-    "ingredients": [
-      "Ground beef",
-      "Onion",
-      "Garlic",
-      "Tomato sauce",
-      "Spaghetti"
-    ],
-    "cookingMethod": "Cook ground beef, onion, and garlic. Add tomato sauce and simmer. Serve with cooked spaghetti.",
-    "rating": 4.8
-  },
-  {
-    "categoryId": 2,
-    "categoryName": "Main Dishes",
-    "id": 5,
-    "recipeName": "Chicken Stir-Fry",
-    "imageUrl": "https://example.com/chicken_stirfry.jpg",
-    "ingredients": [
-      "Chicken breast",
-      "Broccoli",
-      "Carrots",
-      "Bell peppers",
-      "Soy sauce"
-    ],
-    "cookingMethod": "Cook chicken and vegetables in a pan. Add soy sauce and stir-fry until cooked through.",
+    "id": 101,
+    "chef_id": 1,
+    "recipies_name": "Crystal Avila",
+    "ingradients": [
+      "1 pound beef sirloin, cut into thin strips",
+      "1 tablespoon vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "8 ounces sliced mushrooms",
+      "2 tablespoons butter",
+      "2 tablespoons all-purpose flour",
+      "1 1/2 cups beef broth",
+      "Salt and pepper to taste",
+      "Fresh parsley, chopped, for garnish"
+  ],
+  "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
     "rating": 4.4
   },
   {
-    "categoryId": 2,
-    "categoryName": "Main Dishes",
-    "id": 6,
-    "recipeName": "Beef Tacos",
-    "imageUrl": "https://example.com/beef_tacos.jpg",
-    "ingredients": [
-      "Ground beef",
-      "Tortillas",
-      "Lettuce",
-      "Tomatoes",
-      "Cheese"
-    ],
-    "cookingMethod": "Cook ground beef, then assemble tacos with tortillas, lettuce, tomatoes, and cheese.",
-    "rating": 4.6
+    "id": 102,
+    "chef_id": 1,
+    "recipies_name": "Cristina Cooke",
+    "ingradients": [
+      "1 pound beef sirloin, cut into thin strips",
+      "1 tablespoon vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "8 ounces sliced mushrooms",
+      "2 tablespoons butter",
+      "2 tablespoons all-purpose flour",
+      "1 1/2 cups beef broth",
+      "Salt and pepper to taste",
+      "Fresh parsley, chopped, for garnish"
+  ],
+  "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+    "rating": 3.3
   },
   {
-    "categoryId": 3,
-    "categoryName": "Appetizers",
-    "id": 7,
-    "recipeName": "Spinach Dip",
-    "imageUrl": "https://example.com/spinach_dip.jpg",
-    "ingredients": [
-      "Spinach",
-      "Cream cheese",
-      "Sour cream",
-      "Parmesan cheese",
-      "Garlic"
-    ],
-    "cookingMethod": "Mix all ingredients together and bake for 20 minutes.",
+    "id": 103,
+    "chef_id": 1,
+    "recipies_name": "Erickson Carver",
+    "ingradients": [
+      "1 pound beef sirloin, cut into thin strips",
+      "1 tablespoon vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "8 ounces sliced mushrooms",
+      "2 tablespoons butter",
+      "2 tablespoons all-purpose flour",
+      "1 1/2 cups beef broth",
+      "Salt and pepper to taste",
+      "Fresh parsley, chopped, for garnish"
+  ],
+  "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+    "rating": 4.3
+  },
+  {
+    "id": 104,
+    "chef_id": 2,
+    "recipies_name": "Goff Church",
+    "ingradients": [
+      "1 pound beef sirloin, cut into thin strips",
+      "1 tablespoon vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "8 ounces sliced mushrooms",
+      "2 tablespoons butter",
+      "2 tablespoons all-purpose flour",
+      "1 1/2 cups beef broth",
+      "Salt and pepper to taste",
+      "Fresh parsley, chopped, for garnish"
+  ],
+  "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+    "rating": 4.1
+  },
+  {
+    "id": 105,
+    "chef_id": 2,
+    "recipies_name": "Paige Mccullough",
+    "ingradients": [
+      "1 pound beef sirloin, cut into thin strips",
+      "1 tablespoon vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "8 ounces sliced mushrooms",
+      "2 tablespoons butter",
+      "2 tablespoons all-purpose flour",
+      "1 1/2 cups beef broth",
+      "Salt and pepper to taste",
+      "Fresh parsley, chopped, for garnish"
+  ],
+  "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+    "rating": 4.2
+  },
+  {
+    "id": 106,
+    "chef_id": 2,
+    "recipies_name": "Eula Hahn",
+    "ingradients": [
+      "1 pound beef sirloin, cut into thin strips",
+      "1 tablespoon vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "8 ounces sliced mushrooms",
+      "2 tablespoons butter",
+      "2 tablespoons all-purpose flour",
+      "1 1/2 cups beef broth",
+      "Salt and pepper to taste",
+      "Fresh parsley, chopped, for garnish"
+  ],
+  "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
     "rating": 4.5
   },
   {
-    "categoryId": 3,
-    "categoryName": "Appetizers",
-    "id": 8,
-    "recipeName": "Bruschetta",
-    "imageUrl": "https://example.com/bruschetta.jpg",
-    "ingredients": ["Baguette", "Tomatoes", "Basil", "Garlic", "Olive oil"],
-    "cookingMethod": "Toast the bread, then top it with a mixture of tomatoes, basil, garlic, and olive oil.",
-    "rating": 4.2
+    "id": 107,
+    "chef_id": 3,
+    "recipies_name": "Kendra Ellison",
+    "ingradients": [
+      "1 pound beef sirloin, cut into thin strips",
+      "1 tablespoon vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "8 ounces sliced mushrooms",
+      "2 tablespoons butter",
+      "2 tablespoons all-purpose flour",
+      "1 1/2 cups beef broth",
+      "Salt and pepper to taste",
+      "Fresh parsley, chopped, for garnish"
+  ],
+  "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+    "rating": 5.0
   },
   {
-    "categoryId": 3,
-    "categoryName": "Appetizers",
-    "id": 9,
-    "recipeName": "Stuffed Mushrooms",
-    "imageUrl": "https://example.com/stuffed_mushrooms.jpg",
-    "ingredients": [
-      "Mushrooms",
-      "Cream cheese",
-      "Breadcrumbs",
-      "Garlic",
-      "Parmesan cheese"
-    ],
-    "cookingMethod": "Remove stems from mushrooms, stuff with a mixture of cream cheese, breadcrumbs, garlic, and Parmesan cheese. Bake until golden brown.",
-    "rating": 4.7
-  },
-  {
-    "categoryId": 4,
-    "categoryName": "Main Dishes",
-    "id": 10,
-    "recipeName": "Spaghetti Bolognese",
-    "imageUrl": "https://example.com/spaghetti_bolognese.jpg",
-    "ingredients": [
-      "Ground beef",
-      "Onion",
-      "Garlic",
-      "Tomato sauce",
-      "Spaghetti"
-    ],
-    "cookingMethod": "Cook ground beef, onion, and garlic. Add tomato sauce and simmer. Serve with cooked spaghetti.",
-    "rating": 4.8
-  },
-  {
-    "categoryId": 4,
-    "categoryName": "Main Dishes",
-    "id": 11,
-    "recipeName": "Chicken Stir-Fry",
-    "imageUrl": "https://example.com/chicken_stirfry.jpg",
-    "ingredients": [
-      "Chicken breast",
-      "Broccoli",
-      "Carrots",
-      "Bell peppers",
-      "Soy sauce"
-    ],
-    "cookingMethod": "Cook chicken and vegetables in a pan. Add soy sauce and stir-fry until cooked through.",
-    "rating": 4.4
-  },
-  {
-    "categoryId": 4,
-    "categoryName": "Main Dishes",
-    "id": 12,
-    "recipeName": "Beef Tacos",
-    "imageUrl": "https://example.com/beef_tacos.jpg",
-    "ingredients": [
-      "Ground beef",
-      "Tortillas",
-      "Lettuce",
-      "Tomatoes",
-      "Cheese"
-    ],
-    "cookingMethod": "Cook ground beef, then assemble tacos with tortillas, lettuce, tomatoes, and cheese.",
-    "rating": 4.6
-  },
-  {
-    "categoryId": 5,
-    "categoryName": "Appetizers",
-    "id": 13,
-    "recipeName": "Spinach Dip",
-    "imageUrl": "https://example.com/spinach_dip.jpg",
-    "ingredients": [
-      "Spinach",
-      "Cream cheese",
-      "Sour cream",
-      "Parmesan cheese",
-      "Garlic"
-    ],
-    "cookingMethod": "Mix all ingredients together and bake for 20 minutes.",
-    "rating": 4.5
-  },
-  {
-    "categoryId": 5,
-    "categoryName": "Appetizers",
-    "id": 14,
-    "recipeName": "Bruschetta",
-    "imageUrl": "https://example.com/bruschetta.jpg",
-    "ingredients": ["Baguette", "Tomatoes", "Basil", "Garlic", "Olive oil"],
-    "cookingMethod": "Toast the bread, then top it with a mixture of tomatoes, basil, garlic, and olive oil.",
-    "rating": 4.2
-  },
-  {
-    "categoryId": 5,
-    "categoryName": "Appetizers",
-    "id": 15,
-    "recipeName": "Stuffed Mushrooms",
-    "imageUrl": "https://example.com/stuffed_mushrooms.jpg",
-    "ingredients": [
-      "Mushrooms",
-      "Cream cheese",
-      "Breadcrumbs",
-      "Garlic",
-      "Parmesan cheese"
-    ],
-    "cookingMethod": "Remove stems from mushrooms, stuff with a mixture of cream cheese, breadcrumbs, garlic, and Parmesan cheese. Bake until golden brown.",
-    "rating": 4.7
-  },
-  {
-    "categoryId": 6,
-    "categoryName": "Main Dishes",
-    "id": 16,
-    "recipeName": "Spaghetti Bolognese",
-    "imageUrl": "https://example.com/spaghetti_bolognese.jpg",
-    "ingredients": [
-      "Ground beef",
-      "Onion",
-      "Garlic",
-      "Tomato sauce",
-      "Spaghetti"
-    ],
-    "cookingMethod": "Cook ground beef, onion, and garlic. Add tomato sauce and simmer. Serve with cooked spaghetti.",
-    "rating": 4.8
-  },
-  {
-    "categoryId": 6,
-    "categoryName": "Main Dishes",
-    "id": 17,
-    "recipeName": "Chicken Stir-Fry",
-    "imageUrl": "https://example.com/chicken_stirfry.jpg",
-    "ingredients": [
-      "Chicken breast",
-      "Broccoli",
-      "Carrots",
-      "Bell peppers",
-      "Soy sauce"
-    ],
-    "cookingMethod": "Cook chicken and vegetables in a pan. Add soy sauce and stir-fry until cooked through.",
-    "rating": 4.4
-  },
-  {
-    "categoryId": 6,
-    "categoryName": "Main Dishes",
-    "id": 18,
-    "recipeName": "Beef Tacos",
-    "imageUrl": "https://example.com/beef_tacos.jpg",
-    "ingredients": [
-      "Ground beef",
-      "Tortillas",
-      "Lettuce",
-      "Tomatoes",
-      "Cheese"
-    ],
-    "cookingMethod": "Cook ground beef, then assemble tacos with tortillas, lettuce, tomatoes, and cheese.",
-    "rating": 4.6
-  }
+      "id": 108,
+      "chef_id": 3,
+      "recipies_name": "Eula Hahn",
+      "ingradients": [
+          "1 pound beef sirloin, cut into thin strips",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces sliced mushrooms",
+          "2 tablespoons butter",
+          "2 tablespoons all-purpose flour",
+          "1 1/2 cups beef broth",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+      ],
+      "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+      "rating": 4.1
+    },
+    {
+      "id": 109,
+      "chef_id": 3,
+      "recipies_name": "Eula Hahn",
+      "ingradients": [
+          "1 pound beef sirloin, cut into thin strips",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces sliced mushrooms",
+          "2 tablespoons butter",
+          "2 tablespoons all-purpose flour",
+          "1 1/2 cups beef broth",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+      ],
+      "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+      "rating": 4.4
+    },
+    {
+      "id": 110,
+      "chef_id": 4,
+      "recipies_name": "Eula Hahn",
+      "ingradients": [
+          "1 pound beef sirloin, cut into thin strips",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces sliced mushrooms",
+          "2 tablespoons butter",
+          "2 tablespoons all-purpose flour",
+          "1 1/2 cups beef broth",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+      ],
+      "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+      "rating": 3.5
+    },
+    {
+      "id": 111,
+      "chef_id": 4,
+      "recipies_name": "Eula Hahn",
+      "ingradients": [
+          "1 pound beef sirloin, cut into thin strips",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces sliced mushrooms",
+          "2 tablespoons butter",
+          "2 tablespoons all-purpose flour",
+          "1 1/2 cups beef broth",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+      ],
+      "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+      "rating": 4.3
+    },
+    {
+      "id": 112,
+      "chef_id": 4,
+      "recipies_name": "Eula Hahn",
+      "ingradients": [
+          "1 pound beef sirloin, cut into thin strips",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces sliced mushrooms",
+          "2 tablespoons butter",
+          "2 tablespoons all-purpose flour",
+          "1 1/2 cups beef broth",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+      ],
+      "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+      "rating": 4.1
+    },
+    {
+      "id": 113,
+      "chef_id": 5,
+      "recipies_name": "Eula Hahn",
+      "ingradients": [
+          "1 pound beef sirloin, cut into thin strips",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces sliced mushrooms",
+          "2 tablespoons butter",
+          "2 tablespoons all-purpose flour",
+          "1 1/2 cups beef broth",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+      ],
+      "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+      "rating": 4.4
+    },
+    {
+      "id": 114,
+      "chef_id": 5,
+      "recipies_name": "Eula Hahn",
+      "ingradients": [
+          "1 pound beef sirloin, cut into thin strips",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces sliced mushrooms",
+          "2 tablespoons butter",
+          "2 tablespoons all-purpose flour",
+          "1 1/2 cups beef broth",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+      ],
+      "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+      "rating": 4.0
+    },
+    {
+      "id": 115,
+      "chef_id": 5,
+      "recipies_name": "Eula Hahn",
+      "ingradients": [
+          "1 pound beef sirloin, cut into thin strips",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces sliced mushrooms",
+          "2 tablespoons butter",
+          "2 tablespoons all-purpose flour",
+          "1 1/2 cups beef broth",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+      ],
+      "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+      "rating": 4.3
+    },
+    {
+      "id":116,
+      "chef_id": 6,
+      "recipies_name": "Eula Hahn",
+      "ingradients": [
+          "1 pound beef sirloin, cut into thin strips",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces sliced mushrooms",
+          "2 tablespoons butter",
+          "2 tablespoons all-purpose flour",
+          "1 1/2 cups beef broth",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+      ],
+      "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+      "rating": 4.5
+    },
+    {
+      "id": 117,
+      "chef_id": 6,
+      "recipies_name": "Eula Hahn",
+      "ingradients": [
+          "1 pound beef sirloin, cut into thin strips",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces sliced mushrooms",
+          "2 tablespoons butter",
+          "2 tablespoons all-purpose flour",
+          "1 1/2 cups beef broth",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+      ],
+      "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+      "rating": 4.4
+    },
+    {
+      "id": 118,
+      "chef_id": 6,
+      "recipies_name": "Eula Hahn",
+      "ingradients": [
+          "1 pound beef sirloin, cut into thin strips",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces sliced mushrooms",
+          "2 tablespoons butter",
+          "2 tablespoons all-purpose flour",
+          "1 1/2 cups beef broth",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+      ],
+      "cooking_methods": "In a large skillet, heat the vegetable oil over medium-high heat. Add the beef and cook until browned on all sides. Remove beef from skillet and set aside.Add the onion, garlic, and mushrooms to the skillet and cook until softened, about 5 minutes.Remove the vegetables from the skillet and set aside with the beef.In the same skillet, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.Gradually whisk in the beef broth until the mixture is smooth. Stir in the Dijon mustard.Add the beef and vegetables back to the skillet and let the mixture simmer for 10-15 minutes, or until the sauce has thickened.Remove the skillet from heat and stir in the sour cream. Season with salt and pepper to taste.Serve the stroganoff over cooked egg noodles, garnished with chopped parsley. Enjoy!",
+      "rating": 4.2
+    }
 ]
